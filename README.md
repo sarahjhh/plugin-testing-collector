@@ -227,3 +227,8 @@ For example if you want to run small and medium tests:
 
 package rand
 ```
+
+## Ready to Share
+
+When you've finished your plugin make sure to announce on [slack](https://intelsdi-x.herokuapp.com/) and get your plugin added to the [Plugin Catalog](https://github.com/intelsdi-x/snap/blob/master/docs/PLUGIN_CATALOG.md)
+.
